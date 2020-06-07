@@ -28,4 +28,4 @@ The seed looks like this. (Setting the number of repetitions to 0)
 Running the script based on this seed and a repetitions of 2.
 <img src="example_images/fractal_2.png" width="100%">Fractal Image</img>
 And finally extruding it slightly to make the details more visable.
-<img src="example_images/fractal_2_extruded.png" widht="100%">Fractal Extruded Image</img>
+<img src="example_images/fractal_2_extruded.png" width="100%">Fractal Extruded Image</img>
