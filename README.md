@@ -1,4 +1,4 @@
-# (Space filling) Fractal Generating script based on hard coded values. Author: Alessandro Sacchetti
+# (Space filling) Fractal script based on hard coded values.
 Based on: https://youtu.be/RU0wScIj36o
 
 ## NOTE: This is a very slow solution to this problem that only works in 2D. Currently working on an updated one.
