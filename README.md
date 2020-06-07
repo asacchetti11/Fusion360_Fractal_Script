@@ -24,8 +24,8 @@ There is a reference line defined for the seed which is from the first point and
 
 ## EXAMPLE:
 The seed looks like this. (Setting the number of repetitions to 0)
-<img src="example_images/seed.png" width="100%">Seed Image</img>
+<img src="example_images/seed.png" width="100%" alt="Seed Image"></img>
 Running the script based on this seed and a repetitions of 2.
-<img src="example_images/fractal_2.png" width="100%">Fractal Image</img>
+<img src="example_images/fractal_2.png" width="100%" alt="Fractal Image"></img>
 And finally extruding it slightly to make the details more visable.
-<img src="example_images/fractal_2_extruded.png" width="100%">Fractal Extruded Image</img>
+<img src="example_images/fractal_2_extruded.png" width="100%" alt="Fractal Extruded Image"></img>
