@@ -21,3 +21,11 @@ Keep in mind each line will be created from the previous point in the list to th
 Treating each repetition as its own event I used some linear algebra and recursion to achieve what I saw in the video.
 
 There is a reference line defined for the seed which is from the first point and the last point. This line is used as the basis for the seed's points. For each repetition we use the lines that are created from the seed points as individual basis for each new repetition. A change of basis matrix is then calculated from the reference line to the new line and used to apply a transformation to each of the seed points. This is done for each of the lines on the seed and will treat each new repetition as the same process.
+
+##EXAMPLE:
+The seed looks like this. (Setting the number of repetitions to 0)
+<img src="example_images/seed.png" width="100%">Seed Image</img>
+Running the script based on this seed and a repetitions of 2.
+<img src="example_images/fractal_2.png" width="100%">Fractal Image</img>
+And finally extruding it slightly to make the details more visable.
+<img src="example_images/fractal_2_extruded.png" widht="100%">Fractal Extruded Image</img>
