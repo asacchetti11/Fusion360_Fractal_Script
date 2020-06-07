@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Alessandro Sacchetti",
+	"description":	{
+		"":	"Generates a space filling fractal using inputted lines"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
