@@ -1,7 +1,7 @@
 # (Space-filling) Fractal script based on hard-coded values.
 Based on: https://youtu.be/RU0wScIj36o
 
-## NOTE: This is a very slow solution to this problem that only works in 2D. Currently working on an updated one.
+## NOTE: This is a very slow solution to this problem that only works in 2D. Will build an updated one in the future.
 
 ## OVERVIEW:
 The script creates a new sketch on the XY-plane and uses the create_fractal_lines() function to generate a fractal, based on a seed. The seed is currently a hardcoded value which is a list of points. The script will draw lines in the same order as they were appended to the list.
